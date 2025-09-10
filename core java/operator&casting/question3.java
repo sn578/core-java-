@@ -1,3 +1,4 @@
+//swaping the value without using thrid variable //
 import java.util.*;
 public class question3{
     public static void main(String args[]){
@@ -13,4 +14,5 @@ public class question3{
            System.out.println("\nAfter swapping:");
            System.out.println("a = " + a + ", b = " + b);
     }
+
 }
