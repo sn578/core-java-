@@ -1,4 +1,3 @@
-//write a program to convert int to double using implicit casting.
 public class question4{
     public static void main(String[]args){
         //int a = 10;
@@ -11,4 +10,5 @@ public class question4{
         System.out.println("before casting :" +b);
         System.out.println("After casting :"+number);
     }
+
 }
