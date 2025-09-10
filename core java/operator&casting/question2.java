@@ -1,3 +1,4 @@
+//Write a program to check if a number is even or odd using the % operator//
 import java.util.*;
 public class question2{
     public static void main (String args[]){
@@ -10,4 +11,5 @@ public class question2{
         System.out.println("the number is odd");
     }
     }
+
 }
